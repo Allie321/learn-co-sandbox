@@ -1,7 +1,7 @@
 class FacebookProfiles
   def intialize(name, age)
-    name=name 
-    age=age
+    @name=name 
+    @age=age
   end
   
   
@@ -22,4 +22,6 @@ end
  allison.job = "something in the medical field"
  
  puts "i am a #{allison.job}"
+ 
+ end
  
