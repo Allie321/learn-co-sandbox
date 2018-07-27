@@ -21,4 +21,5 @@ end
  allison.bio = "this is my bio!"
  allison.job = "something in the medical field"
  
- puts "i am a #{allison.job}""
+ puts "i am a #{allison.job}"
+ end
